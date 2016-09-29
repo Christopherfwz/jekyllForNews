@@ -1,0 +1,893 @@
+---
+layout: post
+title:  "《细胞》子刊发表我校干细胞研究新成果"
+date:   2016-09-28 11:49:45 +0200
+categories: jekyll update
+---
+《细胞》子刊发表我校干细胞研究新成果
+
+2016-09-20
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD>
+
+<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/8bcb8671a246572df27554bb903ce542/allmobilize.min.js"></script>
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<link href="#" rel="alternate" media="handheld" />
+
+<TITLE>《细胞》子刊发表我校干细胞研究新成果-武大新闻网</TITLE>
+
+
+
+
+<META content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<META name="keyword" content="">
+<META name="description" content=""><LINK rel="stylesheet" type="text/css" href="../../dfiles/11299/skin/news/css/main.css"><script type="text/javascript" src="../../dfiles/11299/skin/news/js/jquery.js"></script><script type="text/javascript" src="../../dfiles/11299/skin/news/js/myjs.js"></script></LINK>
+
+</LINK><!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230747f47565255544203030006 -->
+<link rel="stylesheet" type="text/css" href="../../content.vsb.css" />
+<META Name="keywords" Content="武大新闻网" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1002,'/content.jsp',46838,1245613553)</script>
+</HEAD>
+<BODY style="zoom: 1"><!-- 页头 -->
+<DIV id="page_top" class="maxwidth">
+<DIV class="logo"></DIV>
+<DIV class="clear"></DIV>
+<DIV class="daohang kuang1 l">
+<DIV class="left"></DIV>
+<DIV class="body" style="width: 838px">
+<DIV class="daohanglist">
+<UL><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="网站导航" viewid="6586" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"--><LI><A href="../../index.htm">网站首页</A></LI><li><a href="../../wdyw.htm" title="武大要闻">武大要闻</a></li><li><a href="../../mtwd.htm" title="媒体武大">媒体武大</a></li><li><a href="../../ztbd.htm" title="专题报道">专题报道</a></li><li><a href="../../ljrw.htm" title="珞珈人物">珞珈人物</a></li><li><a href="../../gjjl.htm" title="国际交流">国际交流</a></li><li><a href="../../bfxy.htm" title="缤纷校园">缤纷校园</a></li><li><a href="../../xyzs.htm" title="校友之声">校友之声</a></li><li><a href="../../ljlt.htm" title="珞珈论坛">珞珈论坛</a></li><li><a href="../../xwrx.htm" title="新闻热线">新闻热线</a></li><li><a href="../../ttxw.htm" title="头条新闻">头条新闻</a></li><li><a href="../../zhxw.htm" title="综合新闻">综合新闻</a></li><li><a href="../../ljyx.htm" title="珞珈影像">珞珈影像</a></li><li><a href="../../kydt.htm" title="学术动态">学术动态</a></li><li><a href="../../djpx.htm" title="点击排行">点击排行</a></li><li><a href="../../ljfk.htm" title="珞珈副刊">珞珈副刊</a></li><li><a href="../../xsgc.htm" title="校史钩沉">校史钩沉</a></li><li><a href="../../lgxd.htm" title="来稿选登">来稿选登</a></li><div class="clear"></div><!--#endeditable--></UL></DIV></DIV>
+<DIV class="right"></DIV></DIV>
+<DIV class="sj kuang1 r">
+<DIV class="left"></DIV>
+<DIV id="calander" class="body" style="width: 116px"><!--#begineditable clone="0" namechanged="0" order="0" ispublic="0" tagname="文本日历" viewid="46795" contentviewid="" contype="" stylesysid="" layout="" action="" name="文本日历"--><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar46795EnDateString;
+
+var c_Calendar46795WeekDayString;
+
+//阴历
+var c_Calendar46795CnDateString;
+//节气
+var c_Calendar46795JQString;
+//年
+var c_Calendar46795YearString;
+//月
+var c_Calendar46795MonthString;
+//日
+var c_Calendar46795DayString;
+//周
+var c_Calendar46795WeekString;
+function RunGLNL46795()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar46795CnDateString=sc.getCnDateString();
+    c_Calendar46795WeekDayString=sc.getCalendarWeekString();
+    c_Calendar46795JQString=sc.getJQString();
+    c_Calendar46795EnDateString=sc.getEnDateString();
+    c_Calendar46795YearString=sc.getYearString();
+    c_Calendar46795MonthString=sc.getMonthString();
+    c_Calendar46795DayString=sc.getDayString();
+    c_Calendar46795WeekString=sc.getWeekString();
+}
+RunGLNL46795();
+document.write('<div id="c_lunar46795"   class="fontstyle46795"  >');       
+document.write(c_Calendar46795EnDateString);
+document.write("<br>"+c_Calendar46795WeekDayString);
+document.write("<br>"+c_Calendar46795CnDateString);
+
+
+document.write("</div>");
+
+</script>
+<!--#endeditable--></DIV>
+<DIV class="right"></DIV></DIV>
+<DIV class="clear" style="overflow: hidden; height: 5px"></DIV>
+<DIV class="links">
+<DIV class="quicklink" style="float: left"><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="网站链接" viewid="6588" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站链接"--><a href="http://www.whu.edu.cn/" target="_blank" style="padding-right: 12px; background: url(/skin/news/images/biao.gif) no-repeat right 50%">
+                    武大主页</a>
+                <div class="line l">
+                </div>
+                <a href="http://newspaper.whu.edu.cn/paper">武大校报</a>
+                <div class="line l">
+                </div>
+                <a href="../../wdsp.htm">武大视频</a>
+                <div class="line l">
+                </div>
+                <a href="http://t.sina.com.cn/wuhandaxue" target="_blank">武大微博</a>
+                <div class="line l">
+                </div>
+                <a href="http://bbs.whu.edu.cn/" target="_blank">珞珈山水</a>
+                <div class="line l">
+                </div>
+                <a href="../../ztwz.htm" target="_blank">专题网站</a><!--#endeditable--></DIV>
+<DIV style="float: right; margin-right: 10px"></DIV></DIV></DIV>
+<DIV class="clear" style="overflow: hidden; height: 5px"></DIV>
+<DIV class="maxwidth" style="margin: 0px auto">
+<DIV class="locals kuang2">
+<DIV class="left"></DIV>
+<DIV class="body">
+<DIV class="text"><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="位置导航" viewid="6589" contentviewid="" contype="" stylesysid="" layout="" action="" name="位置导航"-->  
+<table cellspacing="0" cellpadding="0"><tr><td nowrap>位置导航>>   
+<a href="../../index.htm"><span>首页</span></a><span>>></span><a href="../../wdyw.htm"><span>武大要闻</span></a><span>>></span><span>正文</span></td></tr></table><!--#endeditable--></DIV></DIV>
+<DIV class="right"></DIV></DIV></DIV>
+<DIV class="clear" style="overflow: hidden; height: 5px"></DIV>
+<DIV id="page_main" class="maxwidth"><!--这里是广告1-->
+<DIV style="height: 70px; width: 970px; display: none"></DIV>
+<DIV class="clear" style="overflow: hidden; height: 10px"></DIV>
+<DIV class="page_index_left">
+<DIV class="kuang7 l" style="width: 750px">
+<DIV class="title">
+<DIV class="left"></DIV>
+<DIV class="right"></DIV>
+<DIV class="text">详细新闻 </DIV></DIV>
+<DIV class="list" style="padding-bottom: 0px; padding-top: 0px; padding-left: 20px; min-height: 1080px; padding-right: 20px">
+<DIV class="news_content"><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="文章内容" viewid="6629" contentviewid="" contype="" stylesysid="" layout="" action="" name="文章内容"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script type="text/javascript">NewsvoteDWR.getNewsLinkUrl(46838,'1245613553','vsb',newsSkip);function newsSkip(data){if(data != ""){window.location.href = data;}}</script><script language="javascript" src="/system/resource/js/ajax.js"></script>  <form name="_newscontent_fromname">
+   <script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script> 
+   <div class="news_ytitle">
+    
+   </div> 
+   <div class="news_title">
+    《细胞》子刊发表我校干细胞研究新成果
+   </div> 
+   <div class="news_ftitle">
+    
+   </div> 
+   <div class="news_attrib">
+    发布时间：2016-09-20 17:13&nbsp;&nbsp;作者：&nbsp;&nbsp;来源：生命科学学院&nbsp;&nbsp;访问次数：<script>_showDynClicks("wbnews", 1245613553, 46838)</script>
+   </div> 
+   <div class="clear" style="height: 20px;"></div> 
+   <div class="news_content">
+    <p style="margin: 0px 0px 8px; line-height: 27px; text-indent: 32px;"><span style="font-size: 16px;"><span style="font-family: 宋体;">新闻网讯（</span><span style="font-family: 楷体_GB2312;">通讯员杨雪</span><span style="font-family: 宋体;">）9月13日，生命科学学院周荣家和程汉华教授实验室在干细胞及其分化研究方面取得新进展，相关成果在国际权威期刊<em>Cell</em>（《细胞》）子刊<em>Stem Cell Reports</em>《干细胞报道》上发表。该项研究通过确立斑马鱼胚胎细胞的多能性时序，建立了直接诱导为功能性心肌细胞的技术系统。</span></span></p>
+<p style="margin: 0px 0px 8px; line-height: 27px; text-indent: 32px;"><span style="font-family: 宋体;"><span style="font-size: 16px;">该论文题为<em>Directed differentiation of zebrafish pluripotent embryonic cells to functional cardiomyocytes</em>(《斑马鱼胚胎多能干细胞直接定向分化为功能性心肌细胞》)。博士后肖遥为第一作者，通讯作者为生命科学学院周荣家教授和程汉华教授，姚镜教授作为重要合作伙伴参与该项研究。该工作得到了国家科技部、国家自然科学基金、湖北省科技计划和111引智计划的支持。</span></span></p>
+<p style="margin: 0px 0px 8px; line-height: 27px; text-indent: 32px;"><span style="font-family: 宋体;"><span style="font-size: 16px;">据了解，胚胎干细胞具有发育的全能性及自我更新能力，可以分化为多样性的功能细胞，参与个体发育和生命的延续。该项研究通过分子及发育生物学等研究手段，确定了斑马鱼胚胎细胞的多能性时序，发现其胚胎干性维持在基因组激活后一个狭窄的时间窗口。随着胚胎发育进程，进而进行内胚层、中胚层和外胚层等三胚层的分化。基于胚胎细胞干性窗口，可以直接诱导分化。</span></span></p>
+<p style="margin: 0px 0px 8px; line-height: 27px; text-indent: 32px;"><span style="font-family: 宋体;"><span style="font-size: 16px;">研究人员还通过直接培养诱导斑马鱼胚胎细胞，成功建立了功能性心肌细胞诱导系统。分化的心肌细胞表现出正常的收缩动力学和电生理学特性。该项成果在细胞发育与分化、药物筛选、细胞治疗和疾病模型等研究中有着广阔的应用前景。</span></span></p>
+<p style="text-align: right;"><span style="font-family: 楷体_GB2312; font-size: 16px;">（编辑：陈丽霞）</span></p>
+<p></p>
+   </div> 
+   <div style="text-align:right;color:#999999;">
+        转载本网文章请注明出处 
+   </div>
+   <div class="clear" style="height: 20px;"></div>
+  </form>
+  <a class="currurl" title="信息" href="http://news.whu.edu.cn/info/1002/46838.htm"></a>
+<!--#endeditable-->
+<DIV class="clear10"></DIV>
+<DIV class="title xg_title">
+<DIV class="st">文章评论</DIV>
+</DIV>
+<div class="newscomment">
+<!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="整合式评论" viewid="46782" contentviewid="" contype="" stylesysid="" layout="" action="" name="整合式评论"-->
+<table cellpadding="2" cellspacing="1" bgcolor="#CCCCCC">
+
+
+<tr>
+    <td bgcolor="#ffffff" class="messagestyle46782" style="padding-left:10px;word-break:break-all;">
+        请遵守《互联网电子公告服务管理规定》及中华人民共和国其他有关法律法规。<br>用户需对自己在使用本站服务过程中的行为承担法律责任。<br>本站管理员有权保留或删除评论内容。<br>评论内容只代表网友个人观点，与本网站立场无关。
+    </td>
+</tr>
+
+<tr>
+    <td style="background-color:#ffffff;font-size: 9pt">
+        <div class="input3style46782">
+            <textarea onpropertychange="calculatesize();" oninput="calculatesize();" id="respwbrespcontent" name="respwbrespcontent" style="width:680px;height:180px"></textarea>
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="background-color:#ffffff;font-size: 9pt">
+        <div id="respmessage"></div>
+    </td>
+</tr>
+<tr>
+    <td align="left" bgcolor="#ffffff">
+        <span id="contentsize" style="display:none">0/1000</span>
+        <input id="respsoru" name="respsoru" type="hidden" value="0" />
+        <input id="respid" name="respid" type="hidden" />
+        <span id="respaccorpass" style="display:none;font-size:9pt">
+            用户名&nbsp;<input type="text" size="8" maxlength="20" id="respwbaccount" name="respwbaccount" style="background-color: #FFFFFF;border: 1px solid #BAD3E6;" />
+            密码&nbsp;<input type="password" size="8" maxlength="20" id="respwbpassword" name="respwbpassword" style="background-color: #FFFFFF;border: 1px solid #BAD3E6;" />
+        </span>
+        
+        <input id="respcheck" name="respcheck" type="checkbox" value="0" checked onclick="ischeckjs46782js();" /><span style="font-size:9pt">&nbsp;匿名发布</span>
+        
+        <span style="font-size: 9pt">验证码</span><input id="resprand" name="resprand" type="text" size="4" maxlength="4" autocomplete="off" style="background-color: #FFFFFF;border: 1px solid #BAD3E6;">
+        <img id="resprandimage" border="0" src="/system/resource/js/message/createimage.jsp" align="absmiddle">
+        <span onclick="changeimagejs46782js()" style="font-size:9pt;cursor:pointer">看不清楚,换张图片</span>
+
+        <input type="button" value="发布" onclick="submitrespjs46782js();">
+
+                
+    </td>
+</tr>
+<tr>
+    <td height="25" style="background-color:#ffffff;font-size: 9pt;padding-left:10px">
+        共<span id="resptotid">0</span>条评论&nbsp;&nbsp;&nbsp; 共<span id="resptotpage">1</span>页&nbsp;&nbsp;&nbsp;当前第<span id="slidercontent">1</span>页
+    </td>
+</tr>
+<tr>
+    <td style="background-color:#ffffff;font-size:9pt;">
+        <div id="respslider" style="height:20px;">
+    </td>
+</tr>
+<tr>
+    <td colspan="2" style="background-color:#ffffff;font-size: 9pt">
+        <div id="respcontent"></div>
+    </td>
+</tr>
+</table>
+<style>
+.respimageSliderjs46782js { margin:0;padding:0; height:20px; width:706px; background-image:url("/system/resource/js/slider/scrollbg.gif");}
+.respimageBarjs46782js    { margin:0;padding:0; height:17px; width:10px; background-image:url("/system/resource/js/slider/scrfloat.gif");}   
+</style>
+
+<script language="javascript" src="/system/resource/js/slider/slider_extras.js"></script>
+
+<script language="javascript" src="../../_dwr/util.js"></script>
+<script language="javascript" src="../../_dwr/interface/NewsRespUtil.js"></script>
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/md5.js"></script>
+<script>
+var isduplicatejs46782js=false;
+var pagesizejs46782js = 10;//每页多少条
+var totalsizejs46782js = 0;//共多少条  
+var totalpagejs46782js = 0;//共多少页
+var startpagejs46782js = 0;//当前页
+var pagejs46782js = startpagejs46782js+1; //显示的页数
+function initsizejs46782js(data)
+{
+     if(data)
+     {
+        totalsizejs46782js=data;
+        totalpagejs46782js = parseInt(totalsizejs46782js%pagesizejs46782js==0?totalsizejs46782js/pagesizejs46782js:(totalsizejs46782js/pagesizejs46782js+1));
+        $("#resptotid").empty();
+        $("#respmessage").empty();
+        $("#resptotid").append(data);
+        $("#resptotpage").append(totalpagejs46782js);
+        showpagejs46782js(startpagejs46782js); //初始化新闻评论
+     }
+}
+function inittotalsizejs46782js()
+{
+     NewsRespUtil.getTotalpage("1245613553","46838","wbnews",initsizejs46782js);  
+}
+//显示评论列表主方法
+function showpagejs46782js(start)
+{
+    if(startpagejs46782js>=0)
+    {        
+        pagejs46782js = parseInt(start/pagesizejs46782js)+1;
+    }
+    NewsRespUtil.getResp("1245613553","46838",start,pagesizejs46782js,"wbnews",buildresultjs46782js);       
+}
+//取消回复
+function cancelrespjs46782js()
+{
+   $("#respmessage").empty();
+   $("#respsoru").val("0");
+   $("#respid").val(""); 
+}
+//回复
+function repjs46782js(id,top)
+{
+    $("#respmessage").empty();
+    $("#respmessage").append("<span style='color:#ff8000;font-size:10pt;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>回复["+top+"]楼的评论&nbsp;&nbsp;&nbsp;&nbsp;<a href='javascript:' onclick='cancelrespjs46782js()'>取消</a></span>");
+    $("#respsoru").val("1");
+    $("#respid").val(id);
+    $("#respwbrespcontent").focus();   
+}
+//回复的处理结果
+function represultjs46782js(data)
+{
+    if(data=="0"  || data=="-12")
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respwbrespcontent").val("");
+        $("#resprand").val("");
+        $("#contentsize").text("0/1000");
+        $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+        //$("respmessage").innerHTML="<span style='font-size:9pt;color:#ff8000;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>回复评论成功</span>"; 
+        var isflag = "0";
+        if(data=="-12")
+        {
+            alert("回复评论成功,您的內容中含有敏感字,请等待后台审核");
+        }else
+        {
+            if(isflag=="1")
+            {
+                alert("回复评论成功");
+            }else
+            {
+                alert("回复评论成功,请等待后台审核");
+            }
+        }
+        
+        NewsRespUtil.getTotalpage("1245613553","46838","wbnews",reloadjs46782js);           
+    }else
+    {
+        buildResultStrjs46782js(data);
+    }
+}
+
+//创建评论表格滚动条
+function buildresultjs46782js(data)
+{
+    if(data)
+    {
+        var result = "<table align='center' width='705' >";
+        for(var i=0;i<data.length;i++)
+        {   
+            result += "<tr>";
+            result += "    <td style='background-color:#ffffff;font-size: 9pt'>";
+            result += "         <font  color=#326FA8>"+ data[i].wbaccount+ "  ["+data[i].wbip+"]"+  "</font>";
+            result += "         "+ data[i].wbrespdate;
+            result += "    </td>";  
+            /*
+            result += "    <td style='background-color:#ffffff;font-size: 9pt' rowspan='2' align='center' nowrap>";
+            //result += "         <span style='color:blue;cursor:pointer;text-decoration:underline' onclick='repjs46782js("+data[i].wbrespid+","+ data[i].wbtop +")'>[回复]</span>"; 
+            result += "         <div style='font-size:20pt;color:gray'>"+ data[i].wbtop +"</div>";
+            result += "    </td>";    
+            */
+  
+            result += "</tr>";
+                        result += "<tr>";
+            result += "    <td style='background-color:#ffffff;font-size: 9pt;word-break:break-all;' >";
+            result += "          " + data[i].wbrespcontent;
+            result += "    </td>";
+            result += "</tr>";
+            result+="<tr>";
+            result+="<td>";             result+="<div  style='border-top:1px dashed #cccccc ;height: 1px;overflow:hidden;'></div>";
+            result+="</td>";        
+            result+="</tr>";
+        }
+        result += "</table>";
+        $("#respcontent").empty();
+        $("#respcontent").append(result);
+        $("#resptotpage").empty();
+        $("#resptotpage").append(totalpagejs46782js);
+        var isreload = "0";
+        var sliderImage1 = new neverModules.modules.slider(
+        {
+        targetId: "respslider",
+        sliderCss: "respimageSliderjs46782js",
+        barCss: "respimageBarjs46782js",
+        min: 1,
+        max: totalpagejs46782js,
+        hints: ""
+        });
+        sliderImage1.onstart  = function () 
+        {
+            isreload = "1" ;
+        }
+        sliderImage1.onchange = function () 
+        {
+            $("#slidercontent").empty();
+            $("#slidercontent").append(sliderImage1.getValue()==0?1:sliderImage1.getValue());       
+        };
+        sliderImage1.onend = function () 
+        {
+            if(isreload=="1")
+            {
+                if(sliderImage1.getValue()!=pagejs46782js && sliderImage1.getValue()!=0)
+                {    
+                    showpagejs46782js((parseInt(sliderImage1.getValue())-1)*pagesizejs46782js);
+                    $("#respmessage").empty();
+                }
+            }
+        }
+        sliderImage1.donclick  = function ()
+        {              
+            if(sliderImage1.getValue()!=pagejs46782js && sliderImage1.getValue()!=0)
+            { 
+                showpagejs46782js((parseInt(sliderImage1.getValue())-1)*pagesizejs46782js);
+                $("#respmessage").empty();
+            }
+        }
+        sliderImage1.create();
+        sliderImage1.setValue(pagejs46782js);
+    }
+    else
+    {
+        $("#respcontent").empty();
+        $("#respcontent").append("<span style='font-size:9pt;height:30px;padding-top:expression(15);padding-bottom:expression(15);'>该新闻还没有评论</span>");
+
+    }
+}
+//评论回复完成后，重新读取计算评论的表格
+function reloadjs46782js(data)
+{
+    totalsizejs46782js = data;
+    totalpagejs46782js = parseInt(totalsizejs46782js%pagesizejs46782js==0?totalsizejs46782js/pagesizejs46782js:(totalsizejs46782js/pagesizejs46782js+1));
+    $("#resptotid").empty();
+    $("#resptotpage").empty();
+    $("#resptotid").append(totalsizejs46782js);
+    $("#resptotpage").append(totalpagejs46782js);
+    showpagejs46782js(0);
+    cancelrespjs46782js();
+}
+function buildResultStrjs46782js(data)
+{
+    if(data=="-2")
+    {
+        alert("没有这个用户或用户被禁用");
+    }
+     else if(data=="-3")
+    {
+        alert("用户名或密码错误");
+    }    
+    else if(data=="-4")
+    {
+        alert("验证码错误");
+    }else if(data=="-9")
+    {
+        alert("请放置在新闻内容页");
+    }   
+    else if(data=="-11")
+    {
+        alert("评论内容过长");
+    }  
+    else
+    {
+        alert("未知错误");
+    }
+}
+
+//添加评论后的处理方法
+function savejs46782js(data)
+{ 
+    
+    if(data=="0" || data=="-12")
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respwbrespcontent").val("");
+        $("#resprand").val("");
+        $("#contentsize").empty();
+        $("#contentsize").append("0/1000");
+        $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+        var isflag = "0";
+        if(data=="-12")
+        {
+            alert("回复评论成功,您的內容中含有敏感字,请等待后台审核");
+        }
+        else
+        {
+            if(isflag=="1")
+            {
+                alert("添加评论成功");
+            }else
+            {
+                alert("评论添加成功，等待后台审核");
+            }
+        }
+        NewsRespUtil.getTotalpage("1245613553","46838","wbnews",reloadjs46782js);
+        
+    }
+    else
+    {
+        buildResultStrjs46782js(data);
+    }
+}
+String.prototype.trim　= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+} 
+
+//提交评论
+function submitrespjs46782js(id)
+{
+    var anonymous = "1";
+    if($("#respcheck")==null || !$("#respcheck").attr("checked"))
+    {
+        
+        if($("#respwbaccount").val()=="" || $("#respwbpassword").val()=="")
+        {    
+             alert("请输入用户名或密码");
+             return;
+        }
+    }
+    else
+    {
+        anonymous = "0";
+    }
+    if(($("#respwbrespcontent").val()).trim()=="")
+    {
+        alert("请输入评论内容");
+        $("#respwbrespcontent").focus();
+        return;
+    }
+    if(($("#respwbrespcontent").val()).length>1000)
+    {
+        alert("评论内容小于1000个字");
+        $("#respwbrespcontent").focus();
+        return;
+    }
+    
+    if($("#resprand").val()=="")
+    {
+        alert("请输入验证码");
+        $("#resprand").focus();
+        return;
+    }
+    var  pd  = hex_md5($("#respwbpassword").val()).toUpperCase()
+    if($("#respsoru").val()=="0")
+    {
+        NewsRespUtil.save("1245613553","1002","46838",anonymous,$("#respwbaccount").val(),pd,base64Contentjs46782js($("#respwbrespcontent").val()),$("#resprand").val(),'0',false,savejs46782js);
+    }
+    else
+    {
+        NewsRespUtil.update("1245613553","1002","46838",anonymous,$("#respwbaccount").val(),pd,base64Contentjs46782js($("#respwbrespcontent").val()),$("#resprand").val(),$("#respid").val(),'0',represultjs46782js);
+    }
+       
+}
+//内容编码
+function base64Contentjs46782js(respcontent)
+{
+    return new Base64().encode(respcontent);    
+}
+
+//是否匿名
+function ischeckjs46782js()
+{
+    if(!$("#respcheck").attr("checked"))
+    {
+        $("#respaccorpass").css("display","inline");
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+    }
+    else
+    {
+        $("#respwbaccount").val("");
+        $("#respwbpassword").val("");
+        $("#respaccorpass").hide();
+    }
+}
+function changeimagejs46782js()
+{   
+    $("#resprandimage").attr("src","/system/resource/js/message/createimage.jsp?randnum="+Math.random());
+}
+function calculatesize()
+{
+    var c = ($("#respwbrespcontent").val()).length;
+    $("#contentsize").empty();
+    $("#contentsize").append( c+"/1000");
+    
+}
+
+function  addEventjs46782js(elm, evType, fn, useCapture) { 
+if (elm.addEventListener) {  
+elm.addEventListener(evType, fn, useCapture);   
+return true; 
+} 
+else if (elm.attachEvent) { 
+var r = elm.attachEvent('on' + evType, fn); 
+return r; 
+}
+else {  
+elm['on' + evType] = fn;
+} 
+}
+addEventjs46782js(window,"load",inittotalsizejs46782js,true);
+</script><!--#endeditable-->
+</div>
+<DIV class="clear10"></DIV>
+
+<DIV class="title xg_title">
+<DIV class="st">相关阅读</DIV></DIV>
+<UL class="news_xg"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="相关文章" viewid="46791" contentviewid="" contype="" stylesysid="" layout="" action="" name="相关文章"-->
+
+<span id="relateNewsjs46791js">读取内容中,请等待...</span>
+
+<script language="JavaScript">
+getRelateNewsjs46791js(0);
+function getRelateNewsjs46791js(temp)
+{
+    var pars = 'archive=0&clickstyle=clickstyle46791&viewid=46791&leaderchar=%C2%B7&titlelen=30&days=3&endimage=&clickshow=false&clickname=%E7%82%B9%E5%87%BB%EF%BC%9A+&&linkmode=_blank&mode=10&pageUrl=/system/_owners/whunews/_webprj/content.jsp&columnshow=2&wbnewsid=46838&owner=1245613553&limitdays=182&rowcount=8&columnstyle= columnstyle46791 &columnid=-1&uid=u6'; 
+    var url = '/system/resource/code/relatenews.jsp?'+pars;
+
+    //需要POST的值，把每个变量都通过&来联接
+    var postStr   = "winstyle=winstyle&leaderfont=leaderfont46791&leaderimage=&linkmode=target=_blank&titlestylename=titlestyle46791&timestylename=timestyle46791";
+    //实例化Ajax
+    var ajax = false;
+    //开始初始化XMLHttpRequest对象
+    if(window.XMLHttpRequest)
+    {   //Mozilla 浏览器
+        ajax = new XMLHttpRequest();
+        if (ajax.overrideMimeType)
+        {   //设置MiME类别
+            ajax.overrideMimeType("text/xml");
+        }
+    }
+    else if (window.ActiveXObject)
+    {   // IE浏览器
+        try
+        {
+            ajax = new ActiveXObject("MSXML2.XMLHTTP.6.0");
+        }
+        catch (e)
+        {
+            try
+            {
+                ajax = new ActiveXObject("MSXML2.XMLHTTP.3.0");
+            }
+            catch (e) {}
+         }
+    }
+    if (!ajax)
+    {   // 异常，创建对象实例失败
+        window.alert("不能创建XMLHttpRequest对象实例.");
+        return false;
+    }
+    //通过Post方式打开连接
+    ajax.open("POST", url, true);
+    //定义传输的文件HTTP头信息
+    ajax.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    //发送POST数据
+    ajax.send(postStr);
+    //获取执行状态
+    
+    ajax.onreadystatechange = function()
+    {
+        if(ajax.status=='12031')
+        {
+            temp++;
+            if(temp<2)
+            {
+                getRelateNews_ajax(temp);
+            }
+        }
+        //如果执行状态成功，那么就把返回信息写到指定的层里
+        if (ajax.readyState == 4 && ajax.status == 200)
+        {
+            document.getElementById("relateNewsjs46791js").innerHTML = ajax.responseText;
+        }
+    }
+}
+</script>
+<!--#endeditable--></UL>
+<DIV class="clear10"></DIV>
+<DIV class="bshare-custom"><A title="分享到QQ空间" class="bshare-qzone"></A><A title="分享到新浪微博" class="bshare-sinaminiblog"></A><A title="分享到人人网" class="bshare-renren"></A><A title="分享到腾讯微博" class="bshare-qqmb"></A><A title="分享到网易微博" class="bshare-neteasemb"></A><A title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></A><SPAN class="BSHARE_COUNT bshare-share-count">0</SPAN></DIV><script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script><script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+<DIV class="clear" style="height: 20px"></DIV><LINK rel="stylesheet" type="text/css" href="../../style/allinone_bannerRotator.css">
+<STYLE type="text/css"> 
+       *{margin:0;padding:0;list-style-type:none;}
+        a,img{border:0;}
+        body{font:12px/180% Arial, Helvetica, sans-serif, "新宋体";}
+        .bannerbox{background:url(../../images/simpleBg.jpg) no-repeat 50% 0;}
+        .bannerbox .frame960{width:600px;height:445px;margin:0 auto;padding:0px 0 0 0;}
+        </STYLE>
+<script src="../../js/jquery.min.js" type="text/javascript"></script><script src="../../js/jquery-ui.min.js"></script><script src="../../js/allinone_bannerRotator.js" type="text/javascript"></script><script type="text/javascript">
+        $(function(){
+            var uimg=$("#vsb_newscontent li img");
+            if(uimg.length<=0) return false;
+            var ul=null;
+            var _show="";
+            
+            uimg.each(function(){
+                var src=$(this).attr("src");
+                if(ul==null)
+                    ul=$(this).parent().parent();
+                $(this).parent().remove();
+                _show += '<li data-bottom-thumb="'+src+'" data-text-id="#photoText1"><img src="'+src+'" alt="" /></li>';    
+            });
+            if(uimg.length>0)
+            {
+            var _html='<div class="bannerbox">';
+             _html+='<div class="frame960">';
+             _html+='   <div id="Banner_simple">';
+             _html+='       <ul class="Banner_list" id="slider_nav">';
+             _html+='       </ul>';
+             _html+='   </div>';
+             _html+='</div>';
+             _html+='</div>';
+             $(ul).replaceWith(_html);
+             
+             $('#slider_nav').html(_show);
+             
+            $('#Banner_simple').allinone_bannerRotator({
+                skin: 'universal',
+                numberOfThumbsPerScreen:7,
+                width: 600,
+                height: 445,
+                
+                thumbsWrapperMarginBottom:-35,        
+                autoHideBottomNav:false,
+                showPreviewThumbs:false,
+                defaultEffect: 'random'
+            }); 
+            }
+        });
+         
+            
+         </script></DIV>
+<DIV class="clear" style="height: 20px"></DIV></DIV></DIV></DIV>
+<DIV class="page_right"><!--武大校报--><!--武大校报-->
+<DIV class="kuang6" style="width: 194px; margin: 0px auto">
+<DIV class="title">
+<DIV class="text l">武大校报 </DIV>
+<DIV class="more r"><A href="http://newspaper.whu.edu.cn/paper"><IMG src="../../dfiles/11299/skin/news/images/more.gif" width="30" height="5"></A> </DIV></DIV>
+<DIV class="clear" style="overflow: hidden; height: 5px"></DIV>
+<DIV style="height: 220px; width: 170px; margin: 5px auto"><script src="http://newspaper.whu.edu.cn/jsinfo/right_wdxb2.js"></script></DIV></DIV>
+<DIV class="clear" style="overflow: hidden; height: 5px"></DIV><!--武大视频--><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="武大视频" viewid="6623" contentviewid="" contype="" stylesysid="" layout="" action="" name="武大视频"--> <div class="kuang6" style="margin: 0px auto; width: 194px;">
+    <div class="title">
+        <div class="text l">
+            武大视频
+        </div>
+        <div class="more r"><a href="../../wdsp.htm"><img src="../../dfiles/11299/skin/news/images/more.gif" width="30" height="5"></a></div>
+    </div>
+    <div class="clear" style="height: 10px; overflow: hidden;"></div>
+    <div class="list" style="height: 270px;">
+        <ul>
+            <li>
+                <a class="biao5" title="武汉大学形象片" href="../1021/39517.htm" target="_blank">
+                武汉大学形象片
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="武汉大学校史文献片" href="../1021/39516.htm" target="_blank">
+                武汉大学校史文献片
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="武汉大学校友片" href="../1021/39515.htm" target="_blank">
+                武汉大学校友片
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【新闻】2016-07-08武大新闻" href="../1021/46455.htm" target="_blank">
+                【新闻】2016-07-08武大新闻
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【新闻】2016-07-01武大新闻" href="../1021/46408.htm" target="_blank">
+                【新闻】2016-07-01武大新闻
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【新闻】2016-06-24武大新闻" href="../1021/46388.htm" target="_blank">
+                【新闻】2016-06-24武大新闻
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【新闻】2016-06-17武大新闻" href="../1021/46387.htm" target="_blank">
+                【新闻】2016-06-17武大新闻
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【新闻】2016-06-03武大新闻" href="../1021/46151.htm" target="_blank">
+                【新闻】2016-06-03武大新闻
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【新闻】2016-05-27武大新闻" href="../1021/46058.htm" target="_blank">
+                【新闻】2016-05-27武大新闻
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="校园歌曲30年" href="../1021/46019.htm" target="_blank">
+                校园歌曲30年
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【新闻】2016-05-20武大新闻" href="../1021/46003.htm" target="_blank">
+                【新闻】2016-05-20武大新闻
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【新闻】2016-05-13武大新闻" href="../1021/45940.htm" target="_blank">
+                【新闻】2016-05-13武大新闻
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【新闻】2016-05-06武大新闻" href="../1021/45877.htm" target="_blank">
+                【新闻】2016-05-06武大新闻
+                </a>
+            </li> 
+        </ul>
+    </div>
+</div><script>_showDynClickBatch(['dynclicks_u7_39517','dynclicks_u7_39516','dynclicks_u7_39515','dynclicks_u7_46455','dynclicks_u7_46408','dynclicks_u7_46388','dynclicks_u7_46387','dynclicks_u7_46151','dynclicks_u7_46058','dynclicks_u7_46019','dynclicks_u7_46003','dynclicks_u7_45940','dynclicks_u7_45877'],[39517,39516,39515,46455,46408,46388,46387,46151,46058,46019,46003,45940,45877],"wbnews", 1245613553)</script>
+<!--#endeditable-->
+<DIV class="clear" style="overflow: hidden; height: 5px"></DIV><!--专题网站--><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="专题网站" viewid="6669" contentviewid="" contype="" stylesysid="" layout="" action="" name="专题网站"-->    <div class="kuang6" sizcache="0" sizset="71" style="margin: 0px auto; width: 194px">
+    <div class="title" sizcache="0" sizset="71">
+        <div class="text l">
+            专题网站</div>
+        <div class="more r" sizcache="0" sizset="71">
+            <a href="../../ztwz.htm">
+                <img src="../../dfiles/11299/skin/news/images/more.gif" width="30" height="5"></a>
+        </div>
+    </div>
+    <div class="clear" style="height: 10px; overflow: hidden">
+    </div>
+    <div sizcache="0" sizset="72" style="margin: 0px auto; width: 170px; height: 144px">
+            <a href="http://sub.whu.edu.cn/18da/" target="_blank">
+                <img src="../../1.jpg" width="170" height="40">
+            </a>
+        <div class="clear" style="height: 10px; overflow: hidden">
+        </div>
+            <a href="http://cxzy.whu.edu.cn/" target="_blank">
+                <img src="../../2.jpg" width="170" height="40">
+            </a>
+        <div class="clear" style="height: 10px; overflow: hidden">
+        </div>
+            <a href="http://sub.whu.edu.cn/ycl/" target="_blank">
+                <img src="../../3.gif" width="170" height="40">
+            </a>
+        <div class="clear" style="height: 10px; overflow: hidden">
+        </div>
+    </div>
+</div><!--#endeditable-->
+<DIV class="clear" style="overflow: hidden; height: 5px"></DIV><!--新闻热线--><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="新闻热线" viewid="6670" contentviewid="" contype="" stylesysid="" layout="" action="" name="新闻热线"--><div class="kuang6" sizcache="0" sizset="75" style="margin: 0px auto; width: 194px">
+    <div class="title" sizcache="0" sizset="75">
+        <div class="text l">
+            新闻热线</div>
+        <div class="more r" sizcache="0" sizset="75">
+            <a href="../../xwrx.htm">
+                <img src="../../dfiles/11299/skin/news/images/more.gif" width="30" height="5"></a></div>
+    </div>
+    <div class="clear" style="height: 10px; overflow: hidden">
+    </div>
+    <div class="list" sizcache="0" sizset="76" style="height: 160px">
+        <ul sizcache="0" sizset="76">
+            <li sizcache="0" sizset="76"><a class="gray" title="报社办公电话变更公告" href="../1010/45246.htm" target="_blank">报社办公电话变更公告</a></li>
+            <li sizcache="0" sizset="76"><a class="gray" title="武汉大学报社2015年度表彰名单" href="../1010/45164.htm" target="_blank">武汉大学报社2015年度表彰名单</a></li>
+            <li sizcache="0" sizset="76"><a class="gray" title="2014-2015年度武汉大学优秀学生记者名单" href="../1010/43826.htm" target="_blank">2014-2015年度武汉大学优秀学</a></li>
+            <li sizcache="0" sizset="76"><a class="gray" title="第二届“天壕珞珈新闻奖”获奖名单" href="../1010/43730.htm" target="_blank">第二届“天壕珞珈新闻奖”获奖</a></li>
+            <li sizcache="0" sizset="76"><a class="gray" title="第一届“天壕珞珈新闻奖”获奖名单" href="../1010/43733.htm" target="_blank">第一届“天壕珞珈新闻奖”获奖</a></li>
+        </ul>
+    </div>
+</div><script>_showDynClickBatch(['dynclicks_u9_45246','dynclicks_u9_45164','dynclicks_u9_43826','dynclicks_u9_43730','dynclicks_u9_43733'],[45246,45164,43826,43730,43733],"wbnews", 1245613553)</script>
+<!--#endeditable-->
+<DIV class="clear" style="overflow: hidden; height: 5px"></DIV><!--发稿统计--><!--结束-->
+<DIV class="kuang6" style="height: 210px; width: 194px; margin: 0px auto">
+<DIV class="title">
+<DIV class="text l">发稿统计 </DIV>
+<DIV class="more r"><A href="http://news.whu.edu.cn/statistic.php"><IMG src="../../dfiles/11299/skin/news/images/more.gif" width="30" height="5"></A> </DIV></DIV>
+<DIV class="clear" style="overflow: hidden; height: 10px"></DIV>
+<DIV>
+<UL class="fgtj">
+<LI class="listtitle">
+<DIV class="item1">排名 </DIV>
+<DIV class="item2">用稿数 </DIV>
+<DIV class="item3">稿件来源 </DIV></LI>
+<LI>
+<DIV class="item1" style="background: url(../../dfiles/11299/skin/news/images/num_01.gif) no-repeat center 50%">&nbsp; </DIV>
+<DIV class="item2">96 </DIV>
+<DIV class="item3">国际交流部 </DIV></LI>
+<LI>
+<DIV class="item1" style="background: url(../../dfiles/11299/skin/news/images/num_02.gif) no-repeat center 50%">&nbsp; </DIV>
+<DIV class="item2">86 </DIV>
+<DIV class="item3">文学院 </DIV></LI>
+<LI>
+<DIV class="item1" style="background: url(../../dfiles/11299/skin/news/images/num_03.gif) no-repeat center 50%">&nbsp; </DIV>
+<DIV class="item2">76 </DIV>
+<DIV class="item3">团委 </DIV></LI>
+<LI>
+<DIV class="item1" style="background: url(../../dfiles/11299/skin/news/images/num_04.gif) no-repeat center 50%">&nbsp; </DIV>
+<DIV class="item2">76 </DIV>
+<DIV class="item3">经济与管理学院 </DIV></LI>
+<LI>
+<DIV class="item1" style="background: url(../../dfiles/11299/skin/news/images/num_05.gif) no-repeat center 50%">&nbsp; </DIV>
+<DIV class="item2">56 </DIV>
+<DIV class="item3">招生就业工作处 </DIV></LI>
+<LI>
+<DIV class="item1" style="background: url(../../dfiles/11299/skin/news/images/num_06.gif) no-repeat center 50%">&nbsp; </DIV>
+<DIV class="item2">55 </DIV>
+<DIV class="item3">继续教育学院 </DIV></LI></UL></DIV></DIV></DIV>
+<DIV class="clear" style="overflow: hidden; height: 10px"></DIV></DIV><!-- 页脚 -->
+<DIV class="clear"></DIV>
+<DIV id="page_down" class="maxwidth">
+<DIV class="line_h" style="width: 100%; margin: 5px auto"></DIV><!--#begineditable clone="0" namechanged="0" order="9" ispublic="0" tagname="版权" viewid="6616" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><P>&nbsp;电子邮箱：wdxw@whu.edu.cn 新闻热线：027-68754665&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </P>
+<P>通讯地址：湖北省武汉市武昌珞珈山 传真：68752632 邮编：430072</P><!--#endeditable--></DIV>
+
+</BODY></HTML>
+
+
+http://news.whu.edu.cn/info/1002/46838.htm
